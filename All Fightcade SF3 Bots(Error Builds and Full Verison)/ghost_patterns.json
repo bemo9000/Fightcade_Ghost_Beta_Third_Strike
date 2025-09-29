@@ -1,0 +1,14 @@
+{
+  "dist:3_p1hp:10": [
+    "neutral",
+    "poke"
+  ],
+  "dist:1_p1hp:5": [
+    "cr.MK",
+    "throw"
+  ],
+  "dist:0_p1hp:2": [
+    "defend",
+    "parry"
+  ]
+}
